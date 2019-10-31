@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './demo/antd/index';
+import App from './router';
 // import "antd/dist/antd.css";
 // import App from './demo/index';
 import * as serviceWorker from './serviceWorker';
